@@ -1,0 +1,2 @@
+Hello, this is the example of writing the file
+ This is the new writing line
